@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: brysj.heroku.com
 port:                 # default 12580
 
 # source list file
